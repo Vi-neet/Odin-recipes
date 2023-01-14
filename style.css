@@ -1,0 +1,53 @@
+* {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #efefef;
+}
+
+header {
+  background-color: #d2001a;
+  margin: 0;
+  padding: 25px;
+}
+
+.head {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-size: 50px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 25px;
+}
+
+ul li {
+  padding: 10px;
+}
+
+.recipe-button {
+  background-color: white;
+  padding: 20px;
+  width: 50%;
+  font-size: 20px;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 1px 15px #e3e3e3;
+  transition: all 0.1s ease-in-out;
+}
+
+.recipe-button:hover {
+  transform: scale(1.1);
+}
+
+.image-container {
+  overflow: hidden;
+  height: 200px;
+  width: 100%;
+}
