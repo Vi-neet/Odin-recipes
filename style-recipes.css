@@ -31,6 +31,7 @@ h3 {
 }
 
 .banner-image {
+  width: 100%;
   filter: brightness(100%) hue-rotate(0deg) saturate(150%);
 }
 
