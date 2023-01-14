@@ -19,7 +19,7 @@ header {
   margin: 0;
   padding: 0;
   color: white;
-  font-size: 50px;
+  font-size: 75px;
 }
 
 ul {
@@ -35,7 +35,7 @@ ul li {
   background-color: white;
   padding: 20px;
   width: 50%;
-  font-size: 20px;
+  font-size: 45px;
   border: 0;
   border-radius: 10px;
   box-shadow: 1px 1px 15px #e3e3e3;
@@ -44,10 +44,4 @@ ul li {
 
 .recipe-button:hover {
   transform: scale(1.1);
-}
-
-.image-container {
-  overflow: hidden;
-  height: 200px;
-  width: 100%;
 }
